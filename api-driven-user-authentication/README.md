@@ -115,11 +115,17 @@ npm start
 
 This project was made possible using the following resources:
 
-- [JSONPlaceholder](https://jsonplaceholder.typicode.com/) for user data API.
-- [Fake Store API](https://fakestoreapi.com/) for product data API.
+- [JSONPlaceholder users ](https://jsonplaceholder.typicode.com/) for user data API.
+- [FakeStore API products](https://fakestoreapi.com/) for product data API.
 
-User Data API: The application fetches user data (ID, name, email, etc.) from the JSONPlaceholder API. This API provides sample user data for testing purposes.
-Product Data API: The product catalog is populated using the Fake Store API, which provides a list of sample products, including details like title, description, price, and images.
+**User Data API**  
+The application fetches user data (ID, name, email, etc.) from the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/users).  
+This API provides sample user data for testing purposes.  
+
+**Product Data API**  
+The product catalog is populated using the [Fake Store API](https://fakestoreapi.com/products),  
+which provides a list of sample products, including details like title, description, price, and images.
+
 
 ## Contributing
 
