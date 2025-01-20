@@ -63,9 +63,10 @@ To get started with the **AccessHub** project, follow the steps below:
 
 First, clone the repository to your local machine using the following command:
 
-````bash
+```bash
 git clone https://github.com/balajis183/api-driven-user-authentication.git
 
+```
 
 ### 2. Navigate to the project folder
 
@@ -74,6 +75,8 @@ Once cloned, go to the project directory:
 ```bash
 cd api-driven-user-authentication
 
+```
+
 ### 3. Install dependencies
 
 The project uses npm to manage dependencies. To install all the required dependencies, run the following command:
@@ -81,6 +84,7 @@ The project uses npm to manage dependencies. To install all the required depende
 ```bash
 npm install react@18 react-dom@18 axios react-router-dom react-toastify
 
+```
 
 This will install the following necessary packages:
 
@@ -90,9 +94,6 @@ This will install the following necessary packages:
 4. **react-router-dom** (^7.1.3)
 5. **react-toastify** (^11.0.3)
 
-
-
-
 ### Main Dependencies and Their Purpose
 
 1. **react**: Core library for building the user interface with components and state management.
@@ -101,8 +102,6 @@ This will install the following necessary packages:
 4. **react-router-dom**: Enables navigation and routing between pages in the application.
 5. **react-toastify**: Displays non-intrusive toast notifications for success, error, or warning messages.
 
-
-
 ### 4. Start the development server
 
 Once the dependencies are installed, you can start the development server to view the app in action. Run the following command:
@@ -110,14 +109,14 @@ Once the dependencies are installed, you can start the development server to vie
 ```bash
 npm start
 
-
+```
 
 ## Acknowledgments
 
 This project was made possible using the following resources:
+
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/) for user data API.
 - [Fake Store API](https://fakestoreapi.com/) for product data API.
-
 
 User Data API: The application fetches user data (ID, name, email, etc.) from the JSONPlaceholder API. This API provides sample user data for testing purposes.
 Product Data API: The product catalog is populated using the Fake Store API, which provides a list of sample products, including details like title, description, price, and images.
@@ -126,16 +125,18 @@ Product Data API: The product catalog is populated using the Fake Store API, whi
 
 Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request. For major changes, open an issue to discuss your ideas first.
 
-
-
 ## Contact
 
 If you have any questions or feedback, feel free to reach out:
-- **GitHub**: [balajis183]( https://github.com/balajis183 )
+
+- **GitHub**: [balajis183](https://github.com/balajis183)
 - **Email**: sbalaji2000s@gmail.com
 
 ---
 
 Thank you for exploring **AccessHub**! 😊
 
-````
+```bash
+https://github.com/balajis183
+
+```
