@@ -31,6 +31,8 @@ function UserDetails() {
           <tr>
             <th>ID</th>
             <th>Email</th>
+            <th>User Name</th>
+            <th>Website</th>
           </tr>
         </thead>
         <tbody>
@@ -38,6 +40,8 @@ function UserDetails() {
             <tr key={user.id}>
               <td>{user.id}</td>
               <td>{user.email}</td>
+              <td>{user.username}</td>
+              <td>{user.website}</td>
             </tr>
           ))}
         </tbody>

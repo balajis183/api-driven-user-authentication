@@ -4,10 +4,10 @@ import "../Styles/About.css"; // Importing external CSS for styling
 function About() {
   return (
     <div className="about-container">
-      <h1 className="about-heading">About Our Application</h1>
+      <h1 className="about-heading">About Our Application 'AccessHub'</h1>
 
       <p className="about-paragraph">
-        Welcome to our user authentication and product viewing platform! Our
+        Welcome to our "AccessHub" user authentication and product viewing platform! Our
         application is designed to provide a seamless experience for both
         customers and staff, enabling users to authenticate themselves and gain
         access to available products. Whether you're browsing through a catalog

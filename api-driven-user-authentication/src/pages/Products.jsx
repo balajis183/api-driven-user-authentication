@@ -26,7 +26,7 @@ function Products() {
 
   return (
     <div>
-      <h1 id="heading">Available Products</h1>
+      <h1 id="heading">Available Products after login</h1>
       <div className="product-grid">
         {products.map((product) => (
           <div key={product.id} className="product-item">
