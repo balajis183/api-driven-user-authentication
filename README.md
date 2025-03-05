@@ -12,7 +12,7 @@
 ## How It Works
 
 ### 1. **View User Details (Reference)**
--
+
 - Users can click on a link to the `UserDetails` page, where they can view some sample user information (like ID and email) as a reference.
 - This page **does not allow login**—it simply shows users some sample details for their understanding.
 
@@ -115,15 +115,15 @@ npm start
 
 This project was made possible using the following resources:
 
-- [JSONPlaceholder](https://jsonplaceholder.typicode.com/) for user data API.
-- [Fake Store API](https://fakestoreapi.com/) for product data API.
+- [JSONPlaceholder users ](https://jsonplaceholder.typicode.com/) for user data API.
+- [FakeStore API products](https://fakestoreapi.com/) for product data API.
 
 **User Data API**  
-The application fetches user data (ID, name, email, etc.) from the [JSONPlaceholder Users API](https://jsonplaceholder.typicode.com/users).  
+The application fetches user data (ID, name, email, etc.) from the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/users).  
 This API provides sample user data for testing purposes.  
 
 **Product Data API**  
-The product catalog is populated using the [Fake Store Products API](https://fakestoreapi.com/products),  
+The product catalog is populated using the [Fake Store API](https://fakestoreapi.com/products),  
 which provides a list of sample products, including details like title, description, price, and images.
 
 
@@ -140,11 +140,9 @@ If you have any questions or feedback, feel free to reach out:
 
 ---
 
+Thank you for exploring **AccessHub**! 😊
+
 ```bash
 https://github.com/balajis183
 
 ```
-
-Thank you for exploring **AccessHub**! 😊
-
-
