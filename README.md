@@ -12,7 +12,7 @@
 ## How It Works
 
 ### 1. **View User Details (Reference)**
-
+-
 - Users can click on a link to the `UserDetails` page, where they can view some sample user information (like ID and email) as a reference.
 - This page **does not allow login**—it simply shows users some sample details for their understanding.
 
