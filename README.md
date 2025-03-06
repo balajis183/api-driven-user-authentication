@@ -68,11 +68,16 @@ You can also copy the link below and paste it into your browser:
 https://balajis183.github.io/api-driven-user-authentication/
 
 ```
-```bash
-Use this link for reference for deployment  -  https://create-react-app.dev/docs/deployment/
----
 
+Use this link for reference for deployment  
+
+```bash
+ https://create-react-app.dev/docs/deployment/
+
+ ```
+---
 ## Installation
+
 
 To get started with the **AccessHub** project, follow the steps below:
 
