@@ -101,7 +101,17 @@ cd api-driven-user-authentication
 
 ### 3. Install dependencies
 
-The project uses npm to manage dependencies. To install all the required dependencies, run the following command:
+The project uses npm to manage dependencies. To install all the required dependencies, run the following commands:
+
+It can be done using 2 ways:
+
+The most popular ways is :
+
+```bash
+npm install
+```
+
+or using manually installing the dependencies
 
 ```bash
 npm install react@18 react-dom@18 axios react-router-dom react-toastify
