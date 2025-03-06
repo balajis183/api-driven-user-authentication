@@ -55,6 +55,21 @@
 
 ---
 
+## Deployment
+
+I have deployed the project, and you can access the live demo using the link below:
+
+🔗 **Live Demo:** [API-Driven User Authentication](https://balajis183.github.io/api-driven-user-authentication/)
+
+You can also copy the link below and paste it into your browser:
+
+```bash
+
+https://balajis183.github.io/api-driven-user-authentication/
+
+```
+---
+
 ## Installation
 
 To get started with the **AccessHub** project, follow the steps below:
